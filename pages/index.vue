@@ -8,7 +8,7 @@
         <div>
           <p class="text-small leading-7 text-light-gray">It's <small class="text-base font-semibold leading-7 text-gray-600 capitalize">{{ weatherCondition }}</small></p>
           <div class="mt-4 flex items-baseline gap-x-2">
-            <span class="text-5xl font-bold tracking-tight text-gray-900">{{ weatherTemp }}</span>
+            <span class="text-9xl text-center font-bold tracking-tight text-gray-900">{{ weatherTemp }}</span>
           </div>
           <p class="mt-6 text-base leading-7 text-gray-600">{{ weatherDescription }}</p>
         </div>
